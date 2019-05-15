@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-174.000000, -75.000000)" fill-rule="nonzero">
+            <g id="facebook" transform="translate(174.000000, 75.000000)">
+                <circle id="Oval" stroke="#313A60" stroke-width="1.07899998" cx="11.9146195" cy="11.9146195" r="11.3751195"></circle>
+                <path d="M14.4324966,11.9883408 L12.7945785,11.9883408 L12.7945785,18.0530973 L10.3129934,18.0530973 L10.3129934,11.9883408 L9.13274336,11.9883408 L9.13274336,9.85694406 L10.3129934,9.85694406 L10.3129934,8.47768824 C10.3129934,7.49137149 10.7765521,5.94690265 12.8166683,5.94690265 L14.6548673,5.95467544 L14.6548673,8.02355917 L13.3211339,8.02355917 C13.1023631,8.02355917 12.7947421,8.13403194 12.7947421,8.60453347 L12.7947421,9.8589286 L14.6493039,9.8589286 L14.4324966,11.9883408 Z" id="Path" fill="#313A60"></path>
+            </g>
+        </g>
+    </g>
+</svg>

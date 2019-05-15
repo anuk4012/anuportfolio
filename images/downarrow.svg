@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="28px" viewBox="0 0 50 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>downarrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background-test" transform="translate(-537.000000, -715.000000)" fill="#3ED188" fill-rule="nonzero">
+            <path d="M561.999917,743 C561.103815,743 560.207824,742.663868 559.524627,741.993017 L538.025709,720.872145 C536.658097,719.528596 536.658097,717.35026 538.025709,716.007254 C539.392768,714.664249 541.609673,714.664249 542.977396,716.007254 L561.999917,734.69617 L581.022549,716.007907 C582.390161,714.664901 584.606845,714.664901 585.973793,716.007907 C587.342069,717.350913 587.342069,719.529248 585.973793,720.872797 L564.475207,741.99367 C563.791678,742.664629 562.895687,743 561.999917,743 Z" id="downarrow"></path>
+        </g>
+    </g>
+</svg>

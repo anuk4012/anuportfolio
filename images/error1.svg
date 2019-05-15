@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>error1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-237.000000, -287.000000)" fill="#E3826F" fill-rule="nonzero">
+            <g id="error1" transform="translate(237.000000, 287.000000)">
+                <path d="M8.5,0 C3.80588,0 0,3.805875 0,8.5 C0,13.194125 3.80588,17 8.5,17 C13.19412,17 17,13.194125 17,8.5 C17,3.805875 13.19412,0 8.5,0 Z M8.5,13.925833 C7.83558,13.925833 7.38083,13.413708 7.38083,12.75 C7.38083,12.067167 7.85471,11.574167 8.5,11.574167 C9.18213,11.574167 9.61917,12.067167 9.61917,12.75 C9.61917,13.414417 9.18213,13.925833 8.5,13.925833 Z M8.94058,9.435708 C8.77129,10.013 8.23792,10.022917 8.06012,9.435708 C7.85542,8.758542 7.12796,6.188 7.12796,4.518458 C7.12796,2.315542 9.88408,2.304917 9.88408,4.518458 C9.88337,6.197917 9.11696,8.835042 8.94058,9.435708 Z" id="error"></path>
+            </g>
+        </g>
+    </g>
+</svg>
